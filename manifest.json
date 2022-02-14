@@ -1,11 +1,11 @@
 {
-    "name": "my_portfolio",
-    "short_name": "my_portfolio",
+    "name": "M Omer Shafique | Portfoilio",
+    "short_name": "M Omer Shafique | Portfoilio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Omer's Portfoilio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
